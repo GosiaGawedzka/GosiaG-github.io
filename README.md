@@ -5,6 +5,7 @@ CV
 e-mail: gosia.gawedzka2022@gmail.com 
 LinkedIn: https://www.linkedin.com/in/malgorzata-gawedzka/
 
+<img src="PXL_20260321_132742827.jpg" width="200">
 
 ### Profile
 Data Scientist with 6+ years of experience delivering advanced data science solutions within the assessment and enterprise sectors. Proven track record at Cambridge University Press & Assessment, developing machine learning models for international exam forecasting, streamlining business processes, conducting statistical studies, and leveraging AI to automate business processes. Committed to sustainable data practices, having contributed to digital carbon footprint initiatives. Navigating agile environments to deliver high-impact, data-driven solutions. Aspiring to make an impact while building on experience in data science, biology, chemistry, and pharmacology from leading organisations. Actively expanding technical repertoire with Modern C++ and regular attendance at leading innovation summits to remain at the forefront of emerging AI technologies.
